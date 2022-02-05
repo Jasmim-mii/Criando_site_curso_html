@@ -1,1 +1,3 @@
-# Criando_site_curso_html
+# Curso desenvolvimento web - Site Unes 
+
+- Desafio do curso consiste em criar site usando apenas HTML.
